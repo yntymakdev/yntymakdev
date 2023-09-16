@@ -1,0 +1,363 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+body {
+  font-family: "Josefin Sans", sans-serif;
+  font-family: "League Spartan", sans-serif;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+  background-color: #202020;
+}
+html {
+  scroll-behavior: smooth;
+}
+a {
+  text-decoration: none;
+}
+/* ? HEADER START */
+#header {
+}
+
+.header {
+  color: var(--3-a-68-b-8, #3a68b8);
+  font-family: Open Sans;
+  font-size: 22.545px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+#header {
+  padding: 60px;
+}
+
+.header-logo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header-logo button{
+  border: none;
+  color: var(--ffffff, #FFF);
+font-family: Open Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+  display: inline-flex;
+height: 47px;
+padding: 15px 30px 27px 30px;
+align-items: flex-start;
+gap: 10px;
+flex-shrink: 0;
+  border-radius: 5px;
+background: var(--3-a-68-b-8, #3A68B8);
+}
+a {
+  color: var(--ffffff, #fff);
+  font-family: Open Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.image {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+#hero {
+  margin-top: 90px;
+}
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.hero-text h3 {
+  width: 526.365px;
+height: 115.504px;
+flex-shrink: 0;
+  color: var(--3-a-68-b-8, #3a68b8);
+  font-family: Open Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 160%; /* 28.8px */
+  text-transform: uppercase;
+}
+.hero-text p {
+  margin-top: 40px;
+  color: var(--ffffff, #fff);
+  font-family: Open Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 160%; /* 28.8px */
+  opacity: 0.7;
+}
+.img {
+  display: flex;
+  justify-content: space-evenly;
+}
+.hero-text h1 {
+  color: var(--ffffff, #fff);
+  font-family: Open Sans;
+  font-size: 55px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 130%; /* 71.5px */
+}
+.btn1 button {
+  color: var(--ffffff, #fff);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  display: inline-flex;
+  padding: 15px 30px;
+  align-items: flex-start;
+  gap: 10px;
+  border-radius: 5px;
+  background: var(--3-a-68-b-8, #3a68b8);
+  border: none;
+}
+.header-text {
+  display: flex;
+  gap: 40px;
+}
+.btn-3 {
+  margin-top: 40px;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+.btn2 button {
+  color: var(--ffffff, #FFF);
+font-family: Open Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+  border-radius: 5px;
+  background: var(--3-a-68-b-8, #3a68b8);
+  display: inline-flex;
+  padding: 15px 30px;
+  align-items: flex-start;
+  gap: 10px;
+  border: none;
+}
+
+.ai-img {
+  display: flex;
+  flex-direction: row;
+}
+.ai-text {
+  margin-top: 250px;
+}
+.ai-text h1 {
+  width: 548px;
+  color: var(--ffffff, #fff);
+  font-family: Open Sans;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 130%; /* 52px */
+}
+
+.ai-text p {
+  margin-top: 30px;
+  color: var(--ffffff, #fff);
+  font-family: Open Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 160%; /* 25.6px */
+}
+
+.ai-text button {
+  margin-top: 30px;
+  position: relative;
+  right: 1pc;
+  left: 1pc;
+  border: none;
+  display: inline-flex;
+  padding: 15px 30px;
+  align-items: flex-start;
+  gap: 10px;
+  border-radius: 5px;
+  background: var(--3-a-68-b-8, #3a68b8);
+  color: var(--ffffff, #fff);
+  font-family: Open Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  color: var(--ffffff, #fff);
+  font-family: Open Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.box {
+  border-radius: 10px;
+  backdrop-filter: blur(100px);
+  background: #292828;
+  width: 362px;
+  height: 389px;
+}
+
+.blockss {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+.blockss {
+  padding-top: 170px;
+  padding-bottom: 50px;
+}
+.block {
+  text-align: center;
+  flex-direction: column;
+  align-items: center;
+}
+.in-text img {
+  margin-top: 40px;
+}
+.in-text h2 {
+  margin-top: 30px;
+}
+.in-text p {
+  color: var(--ffffff, #fff);
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 160%;
+  opacity: 0.7;
+  margin-top: 40px;
+}
+.in-text h2 {
+  color: var(--ffffff, #fff);
+  font-size: 30px;
+  line-height: 125%;
+}
+.img2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 65px;
+  height: 15px;
+  flex-shrink: 0;
+  position: absolute;
+  margin-left: 42pc;
+}
+
+.clients-text {
+  margin-top: 100px;
+}
+.clients-text h1 {
+  color: var(--ffffff, #fff);
+  font-family: Open Sans;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 130%; /* 52px */
+}
+
+.clients {
+  display: flex;
+  align-items: center;
+  align-items: center;
+  justify-content: space-between;
+}
+#clients {
+  margin: 200px 0;`
+}
+.clients-text p {
+  color: var(--ffffff, #fff);
+  font-family: Open Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 160%; /* 25.6px */
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 160%; /* 25.6px */
+}
+.clients-text h1 {
+margin: 0 0 35px 0;
+}
+.a1 {
+  margin-bottom: -200px;
+}
+
+
+
+.artifical{
+    display: flex;
+}
+.artifical-text{
+  display: flex;
+}
+
+
+.foter1 h4{
+  color: var(--ffffff, #FFF);
+font-family: Circular Std;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.foter1 p{
+  color: var(--ffffff, #FFF);
+font-family: Circular Std;
+font-size: 14px;
+font-style: normal;
+font-weight: 450;
+line-height: normal;
+opacity: 0.6;
+}
+
+.art h4{
+  color: var(--ffffff, #FFF);
+font-family: Circular Std;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+
+.foter1{
+  margin: 40px;
+}
+
+
+.art1 p{
+  color: var(--ffffff, #FFF);
+font-family: Circular Std;
+font-size: 14px;
+font-style: normal;
+font-weight: 450;
+line-height: normal;
+opacity: 0.6;
+}
+.art1 h4{
+  color: var(--3-a-68-b-8, #3A68B8);
+font-family: Open Sans;
+font-size: 15.963px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}

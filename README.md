@@ -59,7 +59,6 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=selenium" height="24" alt="selenium logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=vue" height="24" alt="vuejs logo"  />
 </div>
 
 ## 📊 My Github Stats

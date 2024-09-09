@@ -272,10 +272,10 @@
       <img src="https://img.shields.io/badge/ChatGPT-yellow" width="43" height="43" alt="ChatGPT" />
       <br>ChatGPT
     </td>
-    <td align="center" width="80">
+<!--     <td align="center" width="80">
       <img src="https://img.shields.io/badge/OpenAI-lightgrey" width="43" height="43" alt="OpenAI" />
       <br>OpenAI
-    </td>
+    </td> -->
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=supabase" width="43" height="43" alt="Supabase" />
       <br>Supabase

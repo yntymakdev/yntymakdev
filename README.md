@@ -92,10 +92,7 @@
       <img src="https://skillicons.dev/icons?i=threejs" width="43" height="43" alt="Three.js" />
       <br>Three.js
     </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=solidity" width="43" height="43" alt="Solidity" />
-      <br>Solidity
-    </td>
+  
   </tr>
 
   <tr>

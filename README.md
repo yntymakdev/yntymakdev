@@ -2,7 +2,8 @@
 ## 🙋‍♂️ About Me
 
 <a href="https://github.com/Elkhan2003">
-<img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Hi%20I%20am%20YNTY%20and%20I%20am%20Frontend%20Developer"/>
+<img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Hi+I+am+YNTY;and+I+am+Frontend+Developer"/>
+
 
 
 

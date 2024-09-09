@@ -28,21 +28,6 @@
 
 ###
 
-## 📊 My Github Stats
-
-<div style="display: flex; justify-content: center; align-items: center;">
-<a href="https://github.com/yntymakdev"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yntymakdev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
-</a>
-<a href="https://github.com/yntymakdev"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yntymakdev&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
-</a>
-</div>
-
-<p align="center">
-    <a href="https://github.com/yntymakdev">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yntymakdev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
-    </a>
-</p>
-
 <h2>Github stats: </h2>
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{yntymakdev}/count.svg" alt="yntymakdev :: Visitor's Count" /></p>

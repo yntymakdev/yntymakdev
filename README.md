@@ -13,7 +13,8 @@
 ### Oliver's Life
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tail-s&layout=donut&langs_count=3&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application&hide=html,css,php" width="38%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tail-s&layout=donut&langs_count=5&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application&hide=html,css,php" width="38%" />
 
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">

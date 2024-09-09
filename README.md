@@ -19,6 +19,56 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tail-s&theme=flat&column=10)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sacredAST&theme=gotham&layout=compact" width="50%"/> 
+</p>
+
+<p align="center">
+    <a href="https://github.com/sacredAST?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=sacredAST&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"    width="48%" alt="@sacredAST's github-readme-stats"/></a>
+    <a href="https://github.com/sacredAST?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=sacredAST&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+</p>
+
+<p align="center">
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=sacredAST&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sacredAST&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+<div style="display: flex; justify-content: center; align-items: center;">
+<a href="https://github.com/Elkhan2003"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Elkhan2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
+</a>
+<a href="https://github.com/Elkhan2003"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elkhan2003&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+</a>
+</div>
+
+<p align="center">
+    <a href="https://github.com/Elkhan2003">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Elkhan2003&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
+    </a>
+</p>
+
+<h2>Github stats: </h2>
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{Ash3550879}/count.svg" alt="Ash3550879 :: Visitor's Count" /></p>
+
+<p align='center'>
+<img src='https://github-widgetbox.vercel.app/api/profile?username=Ash3550879&data=followers,repositories,stars,commits' />
+</p>
+ 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash3550879&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="Ash3550879 :: Top Langs" />
+<a href="https://github.com/Ash3550879?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Ash3550879&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@Ash3550879's trophy stats"/></a>
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Ash3550879?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Ash3550879&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Ash3550879's github-readme-stats"/></a>
+<a href="https://github.com/Ash3550879?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ash3550879&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Ash3550879's github-readme-streak-stats"/></a>
+
+</p>
+
 ## 🛠️ Skills
 <p align="center">
 <table align="center">
@@ -286,56 +336,6 @@
 </p>
 
 ##
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sacredAST&theme=gotham&layout=compact" width="50%"/> 
-</p>
-
-<p align="center">
-    <a href="https://github.com/sacredAST?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=sacredAST&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"    width="48%" alt="@sacredAST's github-readme-stats"/></a>
-    <a href="https://github.com/sacredAST?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=sacredAST&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
-</p>
-
-<p align="center">
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=sacredAST&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sacredAST&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-<div style="display: flex; justify-content: center; align-items: center;">
-<a href="https://github.com/Elkhan2003"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Elkhan2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
-</a>
-<a href="https://github.com/Elkhan2003"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elkhan2003&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
-</a>
-</div>
-
-<p align="center">
-    <a href="https://github.com/Elkhan2003">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Elkhan2003&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
-    </a>
-</p>
-
-<h2>Github stats: </h2>
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{Ash3550879}/count.svg" alt="Ash3550879 :: Visitor's Count" /></p>
-
-<p align='center'>
-<img src='https://github-widgetbox.vercel.app/api/profile?username=Ash3550879&data=followers,repositories,stars,commits' />
-</p>
- 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash3550879&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="Ash3550879 :: Top Langs" />
-<a href="https://github.com/Ash3550879?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Ash3550879&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@Ash3550879's trophy stats"/></a>
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Ash3550879?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Ash3550879&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Ash3550879's github-readme-stats"/></a>
-<a href="https://github.com/Ash3550879?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ash3550879&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Ash3550879's github-readme-streak-stats"/></a>
-
-</p>
 
 <!-- <h2>Contact :postbox:</h2>
 <div>

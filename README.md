@@ -28,25 +28,6 @@
 
 ###
 
-<h2>Github stats: </h2>
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{yntymakdev}/count.svg" alt="yntymakdev :: Visitor's Count" /></p>
-
-<p align='center'>
-<img src='https://github-widgetbox.vercel.app/api/profile?username=yntymakdev&data=followers,repositories,stars,commits' />
-</p>
- 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yntymakdev&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="yntymakdev :: Top Langs" />
-<a href="https://github.com/yntymakdev?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=yntymakdev&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@yntymakdev's trophy stats"/></a>
-</p>
-
-<p align="center">
-
-<a href="https://github.com/yntymakdev?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=yntymakdev&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@yntymakdev's github-readme-stats"/></a>
-<a href="https://github.com/yntymakdev?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=yntymakdev&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@yntymakdev's github-readme-streak-stats"/></a>
-
-</p>
 
 
 ## 🛠️ Skills

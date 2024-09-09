@@ -20,6 +20,48 @@
     </a>
 </p>
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yntymakdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yntymakdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yntymakdev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="24" alt="python logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=html" height="24" alt="html5 logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=css" height="24" alt="css3 logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=sass" height="24" alt="sass logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="24" alt="tailwindcss logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=react" height="24" alt="react logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="24" alt="nodejs logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="24" alt="mysql logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=docker" height="24" alt="docker logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=figma" height="24" alt="figma logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=git" height="24" alt="git logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=js" height="24" alt="javascript logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="24" alt="jquery logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="24" alt="powershell logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="24" alt="selenium logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=vue" height="24" alt="vuejs logo"  />
+</div>
+
 ## 📊 My Github Stats
 
 <div style="display: flex; justify-content: center; align-items: center;">

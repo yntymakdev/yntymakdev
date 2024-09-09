@@ -1,4 +1,4 @@
-
+## Hi I am YNTY and I am Frontend Developer
 ## 🙋‍♂️ About Me
 
 <a href="https://github.com/Elkhan2003">

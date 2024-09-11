@@ -302,7 +302,7 @@
 </p>
  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yntymakdev&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="yntymakdev :: Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yntymakdev&langs_count=10&theme=merko&layout=compact" width="400px" height="216px" alt="yntymakdev :: Top Langs" />
 <a href="https://github.com/yntymakdev?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=yntymakdev&theme=gitdimmed&no-frame=true&column=3&row=2"  width="400px" alt="@yntymakdev's trophy stats"/></a>
 </p>
 

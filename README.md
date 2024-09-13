@@ -74,10 +74,10 @@
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="55" />
       <br>JavaScript
     </td>
-    <td align="center" width="80">
+<!--     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=jquery" width="43" height="43" alt="jQuery" />
       <br>jQuery
-    </td>
+    </td> -->
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="45" height="55" />
       <br>TypeScript
@@ -90,11 +90,11 @@
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="45" height="55" />
       <br>Redux
     </td>
-    <td align="center" width="80">
+<!--     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="Gatsby" width="45" height="55" />
       <br>Gatsby
-    </td>
-    <td align="center" width="80">
+    </td> -->
+<!--     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=vue" width="43" height="43" alt="Vue" />
       <br>Vue
     </td>
@@ -106,9 +106,9 @@
       <img src="https://skillicons.dev/icons?i=nodejs" width="43" height="43" alt="Node.js" />
       <br>Node.js
     </td>
-  </tr>
+  </tr> -->
   <tr>
-    <td align="center" width="80">
+<!--     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=express" width="43" height="43" alt="Express" />
       <br>Express.js
     </td>
@@ -123,24 +123,24 @@
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=apollo" width="43" height="43" alt="Apollo" />
       <br>Apollo
-    </td>
+    </td> -->
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="RESTful API" width="45" height="55" />
       <br>RESTful API
     </td>
-    <td align="center" width="80">
+<!--     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="45" height="55" />
       <br>FastAPI
     </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="43" height="43" />
       <br>Flask
-    </td>
+    </td> -->
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=nextjs" width="43" height="43" alt="Next.js" />
       <br>Next.js
     </td>
-    <td align="center" width="80">
+<!--     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="55" />
       <br>Python
     </td>
@@ -149,8 +149,8 @@
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="45" height="55" />
       <br>Django
-    </td>
-    <td align="center" width="80">
+    </td> -->
+<!--     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=laravel" width="43" height="43" alt="Laravel" />
       <br>Laravel
     </td>
@@ -161,8 +161,8 @@
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=go" width="43" height="43" alt="Golang" />
       <br>Golang
-    </td>
-    <td align="center" width="80">
+    </td> -->
+<!--     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=actix" width="43" height="43" alt="Actix" />
       <br>Actix
     </td>
@@ -183,20 +183,20 @@
       <br>Kafka
     </td>
   </tr>
-  <tr>
-    <td align="center" width="80">
+  <tr> -->
+<!--     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=cypress" width="43" height="43" alt="Cypress" />
       <br>Cypress
     </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=electron" width="43" height="43" alt="Electron" />
       <br>Electron
-    </td>
+    </td> -->
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=firebase" width="43" height="43" alt="Firebase" />
       <br>Firebase
     </td>
-    <td align="center" width="80">
+<!--     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=rabbitmq" width="43" height="43" alt="RabbitMQ" />
       <br>RabbitMQ
     </td>
@@ -207,8 +207,8 @@
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=mongodb" width="43" height="43" alt="MongoDB" />
       <br>MongoDB
-    </td>
-    <td align="center" width="80">
+    </td> -->
+<!--     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=postgres" width="43" height="43" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
@@ -220,17 +220,17 @@
       <img src="https://skillicons.dev/icons?i=sqlite" width="43" height="43" alt="SQLite" />
       <br>SQLite
     </td>
-  </tr>
-  <tr>
+  </tr> -->
+<!--   <tr>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=flutter" width="43" height="43" alt="Flutter" />
       <br>Flutter
-    </td>
+    </td> -->
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="43" height="43" alt="Docker" />
       <br>Docker
     </td>
-    <td align="center" width="80">
+<!--     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=kubernetes" width="43" height="43" alt="Kubernetes" />
       <br>Kubernetes
     </td>
@@ -245,16 +245,16 @@
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="45" height="55" />
       <br>C++
-    </td>
+    </td> -->
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="45" height="55" />
       <br>GitHub
     </td>
-    <td align="center" width="80">
+<!--     <td align="center" width="80">
       <img src="https://img.shields.io/badge/Pine%20Script-orange" width="43" height="43" alt="Pine Script" />
       <br>Pine Script
-    </td>
-    <td align="center" width="80">
+    </td> -->
+<!--     <td align="center" width="80">
       <img src="https://img.shields.io/badge/VoIP-orange" width="43" height="43" alt="VoIP" />
       <br>VoIP
     </td>
@@ -267,7 +267,7 @@
     <td align="center" width="80">
       <img src="https://img.shields.io/badge/Video%20Streaming-green" width="43" height="43" alt="Video Streaming" />
       <br>Video Streaming
-    </td>
+    </td> -->
     <td align="center" width="80">
       <img src="https://img.shields.io/badge/ChatGPT-yellow" width="43" height="43" alt="ChatGPT" />
       <br>ChatGPT
@@ -280,14 +280,14 @@
       <img src="https://skillicons.dev/icons?i=supabase" width="43" height="43" alt="Supabase" />
       <br>Supabase
     </td>
-    <td align="center" width="80">
+<!--     <td align="center" width="80">
       <img src="https://github.com/hi-tech-AI/hi-tech-AI/raw/main/nlp-logo.jpg" width="43" height="43" alt="Supabase" />
       <br>NLP
     </td>
     <td align="center" width="80">
       <img src="https://github.com/hi-tech-AI/hi-tech-AI/raw/main/llm-logo.jfif" width="43" height="43" alt="Supabase" />
       <br>LLM
-    </td>
+    </td> -->
     <td colspan="2"></td> <!-- Empty space to maintain row structure -->
   </tr>
 </table>

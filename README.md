@@ -346,10 +346,13 @@
   <a href="https://youtube.com/@ynty.1?si=ABxPCBSmRIPMItjR"><img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000"></a>
   <a href="https://www.facebook.com/Elcho911"><img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5"></a>
 </div>
+<br>
+<br>
+
+<br>
+
 
 * 🤝  Now I am Learning 👇
-<img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,redux,nextjs&theme=dark"  height="36" alt="Frontend technologies"  />
-<img src="https://skillicons.dev/icons?i=nodejs,expressjs,php,laravel&theme=dark"  height="36" alt="Backend technologies"  />
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"  height="36" alt="other tech"  />
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs&theme=dark"  height="36" alt="Backend technologies"  />
 <img src="https://skillicons.dev/icons?i=py&theme=dark"  height="36" alt="other tech"  />
 

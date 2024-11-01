@@ -181,11 +181,9 @@
 
 * 🤝  Now I am Learning 👇
 <img src="https://skillicons.dev/icons?i=nodejs,expressjs&theme=dark"  height="36" alt="Backend technologies"  />
-    <br>Node js
+   
 <img src="https://skillicons.dev/icons?i=py&theme=dark"  height="36" alt="other tech"  />
-    <br>Express js
- <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=nestjs" width="43" height="43" alt="Nest" />
-      <br>Nest
-    </td>
+    
+    
 

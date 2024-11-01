@@ -75,10 +75,16 @@
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="55" />
       <br>JavaScript
     </td>
-<!--     <td align="center" width="80">
+         <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="36" height="36" alt="Prisma" />
+      </a>
+      <br>Prisma
+    </td>
+<!--    <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=jquery" width="43" height="43" alt="jQuery" />
       <br>jQuery
-    </td> -->
+    </td> - -->
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="45" height="55" />
       <br>TypeScript

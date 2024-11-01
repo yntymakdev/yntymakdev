@@ -90,22 +90,9 @@
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="45" height="55" />
       <br>Redux
-    </td>  <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="36" height="36" alt="Nestjs" />
-      </a>
-      <br>Nest JS
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>
-      <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="36" height="36" alt="Prisma" />
-      </a>
-      <br>Prisma
+
+
+      
 <!--     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="Gatsby" width="45" height="55" />
       <br>Gatsby
@@ -124,26 +111,26 @@
     </td>
   </tr> -->
   <tr>
-<!--     <td align="center" width="80">
+<!--      <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=express" width="43" height="43" alt="Express" />
       <br>Express.js
-    </td>
-    <td align="center" width="80">
+    </td> -->
+     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=nestjs" width="43" height="43" alt="Nest" />
       <br>Nest
-    </td>
-    <td align="center" width="80">
+    </td> 
+<!--     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="43" height="43" alt="GraphQL" />
       <br>GraphQL
-    </td>
-    <td align="center" width="80">
+    </td> -->
+<!--     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=apollo" width="43" height="43" alt="Apollo" />
       <br>Apollo
-    </td> -->
-    <td align="center" width="80">
+    </td> --> 
+<!--     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="RESTful API" width="45" height="55" />
       <br>RESTful API
-    </td>
+    </td> -->
 <!--     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="45" height="55" />
       <br>FastAPI

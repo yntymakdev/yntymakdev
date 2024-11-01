@@ -90,7 +90,22 @@
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="45" height="55" />
       <br>Redux
+    </td>  <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="36" height="36" alt="Nestjs" />
+      </a>
+      <br>Nest JS
     </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
+      </a>
+      <br>Node JS
+    </td>
+      <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="36" height="36" alt="Prisma" />
+      </a>
+      <br>Prisma
 <!--     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="Gatsby" width="45" height="55" />
       <br>Gatsby

@@ -211,19 +211,19 @@
       <img src="https://skillicons.dev/icons?i=mongodb" width="43" height="43" alt="MongoDB" />
       <br>MongoDB
     </td> -->
-<!--     <td align="center" width="80">
+    <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=postgres" width="43" height="43" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-    <td align="center" width="80">
+<!--     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="45" height="55" />
       <br>Redis
     </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=sqlite" width="43" height="43" alt="SQLite" />
       <br>SQLite
-    </td>
-  </tr> -->
+    </td> -->
+  </tr> 
 <!--   <tr>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=flutter" width="43" height="43" alt="Flutter" />
@@ -271,10 +271,10 @@
       <img src="https://img.shields.io/badge/Video%20Streaming-green" width="43" height="43" alt="Video Streaming" />
       <br>Video Streaming
     </td> -->
-    <td align="center" width="80">
+<!--     <td align="center" width="80">
       <img src="https://img.shields.io/badge/ChatGPT-yellow" width="43" height="43" alt="ChatGPT" />
       <br>ChatGPT
-    </td>
+    </td> -->
 <!--     <td align="center" width="80">
       <img src="https://img.shields.io/badge/OpenAI-lightgrey" width="43" height="43" alt="OpenAI" />
       <br>OpenAI

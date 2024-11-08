@@ -178,7 +178,9 @@
 
 <br>
 
-
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 * 🤝  Now I am Learning 👇
 <img src="https://skillicons.dev/icons?i=nodejs,expressjs&theme=dark"  height="36" alt="Backend technologies"  />
    

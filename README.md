@@ -181,7 +181,7 @@
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
-<picture align="center">
+<picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
@@ -195,11 +195,13 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+    
+<tr>
+  
 * 🤝  Now I am Learning 👇
 <img src="https://skillicons.dev/icons?i=nodejs,expressjs&theme=dark"  height="36" alt="Backend technologies"  />
    
 <img src="https://skillicons.dev/icons?i=py&theme=dark"  height="36" alt="other tech"  />
       <img src="https://skillicons.dev/icons?i=nestjs" width="43" height="43" alt="Nest" />
+<tr/>
     
-    
-

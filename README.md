@@ -14,7 +14,7 @@
     <a href="https://github.com/yntymakdev?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=yntymakdev&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"    width="400px" alt="@yntymakdev's github-readme-stats"/></a>
     <a href="https://github.com/sacredAST?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=yntymakdev&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="400px" alt="@RJ's github-readme-streak-stats"/></a>
 </p>
-
+<!--
 <p align="center">
     <a href="https://github-readme-activity-graph.vercel.app/graph?username=yntymakdev&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=yntymakdev&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yntymakdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yntymakdev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
+--!>
 ###
 
 

@@ -8,7 +8,7 @@
 </a>    
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yntymakdev&langs_count=10&theme=merko&layout=compact" width="600px" height="216px" alt="yntymakdev :: Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yntymakdev&langs_count=10&theme=merko&layout=compact" width="600px" height="716px" alt="yntymakdev :: Top Langs" />
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yntymakdev&theme=gotham&layout=compact" width="500px"/> -->
 </p>
 

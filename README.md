@@ -7,7 +7,8 @@
 </a>
 </a>    
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yntymakdev&theme=gotham&layout=compact" width="500px"/> 
+<img src='https://github-widgetbox.vercel.app/api/profile?username=yntymakdev&data=followers,repositories,stars,commits' />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yntymakdev&theme=gotham&layout=compact" width="500px"/>  -->
 </p>
 
 <p align="center">

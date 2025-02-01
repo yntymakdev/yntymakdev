@@ -94,6 +94,13 @@
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="45" height="55" />
       <br>Redux
     </td>
+  <td align="center" width="80">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="45" height="55" />
+ </td> 
+ <td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=idea" />
+
+ </td> 
   </tr>
 
   <tr>
@@ -124,12 +131,9 @@
  <td align="center" width="80">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" title="php" width="50" height="50"/>&nbsp;
  </td>
- <td align="center" width="80">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
- </td>
- <td align="center" width="80">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
- </td>
+ 
+
+
  <td align="center" width="80">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
  </td>
@@ -200,9 +204,7 @@
 
 <br>
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -217,13 +219,13 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-    
+    <!--
 <tr>
-  
+   <!--
 * 🤝  Now I am Learning 👇
 <img src="https://skillicons.dev/icons?i=nodejs,expressjs&theme=dark"  height="36" alt="Backend technologies"  />
-   
+    <!--
 <img src="https://skillicons.dev/icons?i=py&theme=dark"  height="36" alt="other tech"  />
-    
+     <!--
 <tr/>
-    
+    --!>

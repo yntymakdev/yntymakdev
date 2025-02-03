@@ -58,16 +58,16 @@
       <br>Sass
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="43" height="43" alt="Bootstrap" />
-      <br>Bootstrap
+      <img src="https://skillicons.dev/icons?i=redis" width="43" height="43" alt="Bootstrap" />
+      <br>Redis
     </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=ae" width="43" height="43" alt="Babel" />
       <br>Ae2020
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=threejs" width="43" height="43" alt="Three.js" />
-      <br>Three.js
+      <img src="https://skillicons.dev/icons?i=aws" width="43" height="43" alt="Three.js" />
+      <br>AWS
     </td>
   </tr>
 

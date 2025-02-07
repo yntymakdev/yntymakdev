@@ -111,12 +111,7 @@ Intelji
 <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter"  />
 Flutter
 
- </td> 
- <td align="center" width="80" >
-<img src="https://skillicons.dev/icons?i=vue " alt="Vue"  />
-  <br>Vue
 
- </td> 
   </tr>
 
   <tr>

@@ -100,9 +100,21 @@
     </td>
   <td align="center" width="80">
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="45" height="55" />
+  <br>Java
  </td> 
  <td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=idea" />
+<img src="https://skillicons.dev/icons?i=idea" alt="Intelji"  />
+Intelji
+
+ </td> 
+ <td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=flutter" alt="Flutter"  />
+Flutter
+
+ </td> 
+ <td align="center" width="80" >
+<img src="https://skillicons.dev/icons?i=vue " alt="Vue"  />
+  <br>Vue
 
  </td> 
   </tr>
@@ -130,10 +142,12 @@
     </td>
   <td align="center" width="80">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  <br>Python
    </td>
   
  <td align="center" width="80">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" title="php" width="50" height="50"/>&nbsp;
+  <br>Django
  </td>
  
 

@@ -49,18 +49,6 @@
       <img src="https://skillicons.dev/icons?i=materialui" width="43" height="43" alt="MaterialUI" />
       <br>MUI
     </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="43" height="43" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="80">
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="45" height="55" />
-      <br>Sass
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=redis" width="43" height="43" alt="Bootstrap" />
-      <br>Redis
-    </td>
 
 <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=nodejs" width="43" height="43" alt="Three.js" />

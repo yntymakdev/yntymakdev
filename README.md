@@ -54,10 +54,7 @@
       <img src="https://skillicons.dev/icons?i=nodejs" width="43" height="43" alt="Three.js" />
       <br>Node js
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="80">
+  <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="55" />
       <br>JavaScript
     </td>
@@ -67,7 +64,20 @@
       </a>
       <br>Prisma
     </td>
-    <td align="center" width="80">
+  </tr>
+  <tr>
+  
+  
+  <td align="center" width="80">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="45" height="55" />
+  <br>Java
+ </td> 
+ <td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=idea" alt="Intelji"  />
+Intelji
+
+ </td> 
+  <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="45" height="55" />
       <br>TypeScript
     </td>
@@ -79,15 +89,6 @@
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="45" height="55" />
       <br>Redux
     </td>
-  <td align="center" width="80">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="45" height="55" />
-  <br>Java
- </td> 
- <td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=idea" alt="Intelji"  />
-Intelji
-
- </td> 
  
 
 

@@ -45,6 +45,10 @@
       <img src="https://skillicons.dev/icons?i=css" width="43" height="43" alt="CSS" />
       <br>CSS
     </td>
+ <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=redis" width="43" height="43" alt="CSS" />
+      <br>Redis
+    </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=materialui" width="43" height="43" alt="MaterialUI" />
       <br>MUI
@@ -64,6 +68,7 @@
       </a>
       <br>Prisma
     </td>
+
   </tr>
   <tr>
   

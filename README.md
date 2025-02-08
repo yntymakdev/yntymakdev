@@ -107,9 +107,7 @@
 Intelji
 
  </td> 
- <td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=flutter" alt="Flutter"  />
-Flutter
+ 
 
 
   </tr>

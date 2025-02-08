@@ -121,18 +121,13 @@ Intelji
    </td>
   
  <td align="center" width="80">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" title="php" width="50" height="50"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" title="php" width="43" height="43"/>&nbsp;
   <br>Django
  </td>
 
- 
-
-
  <td align="center" width="80">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
- </td>
- <td align="center" width="80">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" title="php" width="43" height="43"/>&nbsp;
+ </br> Git
  </td>
   </tr>
 </tr>

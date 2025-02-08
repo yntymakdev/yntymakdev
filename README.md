@@ -61,14 +61,7 @@
       <img src="https://skillicons.dev/icons?i=redis" width="43" height="43" alt="Bootstrap" />
       <br>Redis
     </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=ae" width="43" height="43" alt="Babel" />
-      <br>Ae2020
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=aws" width="43" height="43" alt="Three.js" />
-      <br>AWS
-    </td>
+
 <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=nodejs" width="43" height="43" alt="Three.js" />
       <br>Node js

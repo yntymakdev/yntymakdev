@@ -126,7 +126,7 @@ Intelji
  </td>
  <td align="center" width="80">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" title="php" width="50" height="50"/>&nbsp;
-  <br>Django
+  <br>Redis
  </td>
  
 

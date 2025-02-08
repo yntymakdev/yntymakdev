@@ -96,7 +96,7 @@ Intelji
 
   <tr>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="43" height="43" alt="Nest" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" title="php" width="43" height="43"/>&nbsp;
       <br>Nest
     </td>
     <td align="center" width="80">

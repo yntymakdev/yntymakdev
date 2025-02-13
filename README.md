@@ -112,13 +112,10 @@ Pycharm
 
  </td> 
  <td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=aws" alt="Intelji"  />
-AWS
-
+<img src="https://skillicons.dev/icons?i=graphql" alt="Intelji"  />
+Graphql
  </td> 
-
   </tr>
-
   <tr>
     <td align="center" width="80">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" title="php" width="43" height="43"/>&nbsp;
@@ -151,8 +148,8 @@ AWS
  </td>
 
  <td align="center" width="80">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" title="php" width="43" height="43"/>&nbsp;
- </br> Git
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" title="php" width="43" height="43"/>&nbsp;
+ </br> AWS
  </td>
   </tr>
 </tr>

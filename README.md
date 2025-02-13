@@ -68,6 +68,12 @@
       </a>
       <br>Prisma
     </td>
+ <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack">
+   <img src="https://skillicons.dev/icons?i=tailwind" width="43" height="43" alt="Three.js" />
+      </a>
+      <br>Tailwind
+    </td>
 
   </tr>
   <tr>
@@ -95,7 +101,21 @@ Intelji
       <br>Redux
     </td>
  
+ <td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=webstorm" alt="Intelji"  />
+Webstorm
 
+ </td> 
+ <td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=pycharm" alt="Intelji"  />
+Pycharm
+
+ </td> 
+ <td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=aws" alt="Intelji"  />
+AWS
+
+ </td> 
 
   </tr>
 

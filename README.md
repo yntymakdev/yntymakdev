@@ -172,9 +172,9 @@ Graphql
 ##<h2>Work Porjects: </h2>
 <p align="center">
 
-<a align="center" href="https://github.com/yntymakdev/30-github/">
+<a align="center" href="https://github.com/yntymakdev/30github/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minhtrifit&repo=jira-clone&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yntymakdev&repo=30github&theme=synthwave" />
 </a>
 <a href="https://github.com/minhtrifit/windows-11-clone/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->

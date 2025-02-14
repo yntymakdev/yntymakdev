@@ -176,9 +176,9 @@ Graphql
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yntymakdev&repo=30github&theme=synthwave" />
 </a>
-<a href="https://github.com/minhtrifit/windows-11-clone/">
+<a href="https://github.com/yntymakdev/Trello_Task-Meneger/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=windows-11-clone&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yntymakdev&repo=Trello_Task-Meneger&theme=algolia" />
 </a>
 
 <a href="https://github.com/minhtrifit/discord-clone-client/">

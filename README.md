@@ -74,6 +74,12 @@
       </a>
       <br>Tailwind
     </td>
+ <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack">
+   <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="43" height="43" alt="Three.js" />
+      </a>
+      <br>Zustand
+    </td>
 
   </tr>
   <tr>
@@ -99,6 +105,10 @@ Intelji
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="45" height="55" />
       <br>Redux
+    </td>
+<td align="center" width="80">
+      <img src="https://private-user-images.githubusercontent.com/144984605/413231756-49fb2685-0a9b-4a7a-b981-1ec2f8d3eaea.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk1MjMyNjYsIm5iZiI6MTczOTUyMjk2NiwicGF0aCI6Ii8xNDQ5ODQ2MDUvNDEzMjMxNzU2LTQ5ZmIyNjg1LTBhOWItNGE3YS1iOTgxLTFlYzJmOGQzZWFlYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIxNFQwODQ5MjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NzYzNDZkNGU2ZjBjYWJmYzZkOTQ4ODg5MzcxMTA3MDlmNDEwY2ZlYWZkMGQyYTZmMGU1ZGZmNTc5ZDZjZWVlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.i4HuxbopSdotAYQaT982igJy0x_f3dj2OmrY6l7YC4I" alt="Redux" width="45"/>
+      <br>Tanstack
     </td>
  
  <td align="center" width="80">

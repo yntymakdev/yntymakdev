@@ -42,8 +42,8 @@
       <br>HTML
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=css" width="43" height="43" alt="CSS" />
-      <br>CSS
+      <img src="https://camo.githubusercontent.com/9fb8c7cad55c2ac1f2f94927172a2fd43f1ca48993952ac62f87684664309ee1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6b756265726e657465732d69636f6e2e737667" width="55"  alt="CSS" />
+      <br>Kubernetes
     </td>
  <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=redis" width="43" height="43" alt="CSS" />
@@ -122,7 +122,7 @@ Pycharm
 
  </td> 
  <td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=graphql" alt="Intelji"  />
+<img src="https://camo.githubusercontent.com/c8febfb8556fc408c7cd38960c25da203bf0a1368e78fa9ff4bc20be0f82e3c9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6772617068716c2d69636f6e2e737667" alt="Intelji" width="55"  />
 Graphql
  </td> 
   </tr>
@@ -148,7 +148,7 @@ Graphql
       <br>Docker
     </td>
   <td align="center" width="80">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="python" width="50" height="50"/>
   <br>Python
    </td>
   
@@ -158,8 +158,12 @@ Graphql
  </td>
 
  <td align="center" width="80">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" title="php" width="43" height="43"/>&nbsp;
+<img src="https://camo.githubusercontent.com/20b33b0b25d74051a9f13690b5b6fa39c0365cf36632aad937b073c3b6c87a68/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667" title="php" width="55"/>&nbsp;
  </br> AWS
+ </td>
+ <td align="center" width="80">
+<img src="https://camo.githubusercontent.com/8cdbcf003a7bdae052baec154c06620bba9bfd89f6fbfc2a4aea3bace8594658/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6573742d69636f6e2e737667" title="php" width="55"/>&nbsp;
+ </br> Jest
  </td>
   </tr>
 </tr>

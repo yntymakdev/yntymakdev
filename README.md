@@ -172,10 +172,18 @@ Graphql
 <img src="https://skillicons.dev/icons?i=spring" title="php" width="45"/>&nbsp;
  </br> Spring
  </td>
-<!-- <td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=" title="php" width="45"/>&nbsp;
- </br> Spring
- </td> -->
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=apollo" title="php" width="45"/>&nbsp;
+ </br> Apollo
+ </td>
+ <td align="center" width="80">
+<img src="https://camo.githubusercontent.com/3ed284d0ecd9fcccabf0711e2cad6bbec412e417bcfb1da25502a1ed9adbaf78/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" title="php" width="55"/>&nbsp;
+ </br> MySQL
+ </td>
+<td align="center" width="80">
+<img src="https://camo.githubusercontent.com/3ed284d0ecd9fcccabf0711e2cad6bbec412e417bcfb1da25502a1ed9adbaf78/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" title="php" width="55"/>&nbsp;
+ </br> MySQL
+ </td>
 </tr>
 </table>
 </p>

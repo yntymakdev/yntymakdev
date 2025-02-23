@@ -167,6 +167,7 @@ Graphql
 
   </tr>
 </tr>
+## Currently Learning:
 <tr>
 <td align="center" width="80">
 <img src="https://skillicons.dev/icons?i=spring" title="php" width="45"/>&nbsp;
@@ -182,7 +183,7 @@ Graphql
  </td>
 <td align="center" width="80">
 <img src="https://camo.githubusercontent.com/b80747215c0d23a4ce8dca6856047504ffbffc8cf565f86740d1a59ccbd3b89a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74657374696e676c6962726172792d69636f6e2e737667" title="php" width="55"/>&nbsp;
- </br>React testing library
+ </br>Testing
  </td>
 <td align="center" width="80">
 <img src="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" title="php" width="55"/>&nbsp;
@@ -191,6 +192,10 @@ Graphql
 <td align="center" width="80">
 <img src="https://camo.githubusercontent.com/8cdbcf003a7bdae052baec154c06620bba9bfd89f6fbfc2a4aea3bace8594658/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6573742d69636f6e2e737667" title="php" width="55"/>&nbsp;
  </br>Jest
+ </td>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=flutter" title="php" width="55"/>&nbsp;
+ </br>Flutter
  </td>
 </tr>
 </table>

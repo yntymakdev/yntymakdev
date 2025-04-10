@@ -55,7 +55,7 @@
 
 <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=nodejs" width="43" height="43" alt="Three.js" />
-      <br>Node js
+      <br>Nodejs
     </td>
   <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="55" />
@@ -107,9 +107,17 @@ Intelji
       <br>Redux
     </td>
 <td align="center" width="80">
-      <img src="https://private-user-images.githubusercontent.com/144984605/413231756-49fb2685-0a9b-4a7a-b981-1ec2f8d3eaea.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk1MjMyNjYsIm5iZiI6MTczOTUyMjk2NiwicGF0aCI6Ii8xNDQ5ODQ2MDUvNDEzMjMxNzU2LTQ5ZmIyNjg1LTBhOWItNGE3YS1iOTgxLTFlYzJmOGQzZWFlYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIxNFQwODQ5MjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NzYzNDZkNGU2ZjBjYWJmYzZkOTQ4ODg5MzcxMTA3MDlmNDEwY2ZlYWZkMGQyYTZmMGU1ZGZmNTc5ZDZjZWVlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.i4HuxbopSdotAYQaT982igJy0x_f3dj2OmrY6l7YC4I" alt="Redux" width="45"/>
-      <br>Tanstack
-    </td>
+  <img 
+    src="https://media-hosting.imagekit.io/deb7f57d1eb149e3/react-query-logo-png_seeklogo-435661__1_-removebg-preview.png?Expires=1838886918&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=150dkYJHns7R0g-cW5oyxQZp7if-ulv70DTjoNiPQgo6qizOkhRkQXjKdo6xPOSmGVxRDPdVaKjHCMtqCyiG9iz82Th91yZTzynG-8555umneJJu3EV-4WhVCzuLls39EkvnUtGs~e7fR8POQoO51AkPkDRp03Cb4uWwodPCQmcns3lnCmzGn5Ui~xiAQrbnKHH8SFsRKzHUzcl72cG1H1UIOCcNUoCgVTr7qbwIr9rpfL0BurFplYQRlNzT1gD1S7u2mmhlICtb-xQ9vI2uuALt8Av01gVL3xs56D4WgSfCR~FZTEZ-hOF1iEzT-jrMw32rOL~e2A5G-o02cz-0RA__" 
+    alt="" 
+    width="45" 
+    height="45" 
+    style="border-radius: 12px; display: block; object-fit: cover; overflow: hidden;"
+  />
+  <br>Tanstack
+</td>
+
+
  
  <td align="center" width="80">
 <img src="https://skillicons.dev/icons?i=webstorm" alt="Intelji"  />

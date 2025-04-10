@@ -176,6 +176,12 @@ Graphql
       </a>
       <br>Insomnia
     </td>
+<td align="center" width="110" height="90"> 
+      <a href="#debabin-stack">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" width="36" height="36" alt="Insomnia" />
+      </a>
+      <br>Spring Boot
+    </td>
 
 </table>
 </p>

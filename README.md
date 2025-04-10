@@ -168,6 +168,14 @@ Graphql
 
   </tr>
 </tr>
+<tr>
+</tr>
+<td align="center" width="110" height="90"> 
+      <a href="#debabin-stack">
+<img src="https://icon.icepanel.io/Technology/svg/Insomnia.svg" width="36" height="36" alt="Insomnia" />
+      </a>
+      <br>Insomnia
+    </td>
 
 </table>
 </p>

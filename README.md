@@ -191,6 +191,23 @@ Graphql
   <br>SpringBoot
       
  </td>
+<td align="center" width="110" height="90"> 
+      <a href="#debabin-stack">
+<img src="https://icon.icepanel.io/Technology/svg/Kotlin.svg" width="36" height="36" alt="Insomnia" />
+      </a>
+      <br>Kotlin
+    </td>
+
+ <td align="center" width="110">
+    <img src="./DeviconJetpackcompose.svg" title="php" width="43" height="43"/>&nbsp;
+  <br>Jetpack
+      
+ </td>
+ <td align="center" width="110">
+    <img src="./SkillIconsAndroidstudioDark.svg" title="php" width="43" height="43"/>&nbsp;
+  <br>Android
+      
+ </td>
 
 </table>
 </p>

@@ -208,7 +208,16 @@ Graphql
   <br>Android
       
  </td>
-
+<td align="center" width="110">
+    <img src="https://icon.icepanel.io/Technology/svg/PHP.svg" title="php" width="43" height="43"/>&nbsp;
+  <br>PHP
+      
+ </td>
+<td align="center" width="110">
+    <img src="https://icon.icepanel.io/Technology/svg/PHP.svg" title="php" width="43" height="43"/>&nbsp;
+  <br>PHP
+      
+ </td>
 </table>
 </p>
 ##<h2>Work Porjects: </h2>

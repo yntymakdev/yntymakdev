@@ -110,11 +110,8 @@ Intelji
     </td>
 <td align="center" width="80">
   <img 
-    src="https://media-hosting.imagekit.io/deb7f57d1eb149e3/react-query-logo-png_seeklogo-435661__1_-removebg-preview.png?Expires=1838886918&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=150dkYJHns7R0g-cW5oyxQZp7if-ulv70DTjoNiPQgo6qizOkhRkQXjKdo6xPOSmGVxRDPdVaKjHCMtqCyiG9iz82Th91yZTzynG-8555umneJJu3EV-4WhVCzuLls39EkvnUtGs~e7fR8POQoO51AkPkDRp03Cb4uWwodPCQmcns3lnCmzGn5Ui~xiAQrbnKHH8SFsRKzHUzcl72cG1H1UIOCcNUoCgVTr7qbwIr9rpfL0BurFplYQRlNzT1gD1S7u2mmhlICtb-xQ9vI2uuALt8Av01gVL3xs56D4WgSfCR~FZTEZ-hOF1iEzT-jrMw32rOL~e2A5G-o02cz-0RA__" 
-    alt="" 
-    width="45" 
-    height="45" 
-    style="border-radius: 12px; display: block; object-fit: cover; overflow: hidden;"
+    src="./DeviconJetpackcompose.svg" 
+    
   />
   <br>Tanstack
 </td>

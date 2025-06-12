@@ -110,11 +110,8 @@ Intelji
     </td>
 <td align="center" width="80">
   <img 
-    src="https://media-hosting.imagekit.io/deb7f57d1eb149e3/react-query-logo-png_seeklogo-435661__1_-removebg-preview.png?Expires=1838886918&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=150dkYJHns7R0g-cW5oyxQZp7if-ulv70DTjoNiPQgo6qizOkhRkQXjKdo6xPOSmGVxRDPdVaKjHCMtqCyiG9iz82Th91yZTzynG-8555umneJJu3EV-4WhVCzuLls39EkvnUtGs~e7fR8POQoO51AkPkDRp03Cb4uWwodPCQmcns3lnCmzGn5Ui~xiAQrbnKHH8SFsRKzHUzcl72cG1H1UIOCcNUoCgVTr7qbwIr9rpfL0BurFplYQRlNzT1gD1S7u2mmhlICtb-xQ9vI2uuALt8Av01gVL3xs56D4WgSfCR~FZTEZ-hOF1iEzT-jrMw32rOL~e2A5G-o02cz-0RA__" 
-    alt="" 
-    width="45" 
-    height="45" 
-    style="border-radius: 12px; display: block; object-fit: cover; overflow: hidden;"
+    src="./DeviconJetpackcompose.svg" 
+    
   />
   <br>Tanstack
 </td>
@@ -191,7 +188,33 @@ Graphql
   <br>SpringBoot
       
  </td>
+<td align="center" width="110" height="90"> 
+      <a href="#debabin-stack">
+<img src="https://icon.icepanel.io/Technology/svg/Kotlin.svg" width="36" height="36" alt="Insomnia" />
+      </a>
+      <br>Kotlin
+    </td>
 
+ <td align="center" width="110">
+    <img src="./DeviconJetpackcompose.svg" title="php" width="43" height="43"/>&nbsp;
+  <br>Jetpack
+      
+ </td>
+ <td align="center" width="110">
+    <img src="./SkillIconsAndroidstudioDark.svg" title="php" width="43" height="43"/>&nbsp;
+  <br>Android
+      
+ </td>
+<td align="center" width="110">
+    <img src="https://icon.icepanel.io/Technology/svg/PHP.svg" title="php" width="43" height="43"/>&nbsp;
+  <br>PHP
+      
+ </td>
+
+  <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=laravel" width="43" height="43" alt="Firebase" />
+      <br>Laravel
+    </td>
 </table>
 </p>
 ##<h2>Work Porjects: </h2>

@@ -109,10 +109,7 @@ Intelji
       <br>Redux
     </td>
 <td align="center" width="80">
-  <img 
-    src="./DeviconJetpackcompose.svg" 
-    
-  />
+  <img src="./img/tanstack.svg" width="48"/>
   <br>Tanstack
 </td>
 

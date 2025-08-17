@@ -42,10 +42,10 @@
       <img src="https://skillicons.dev/icons?i=html" width="43" height="43" alt="HTML" />
       <br>HTML
     </td>
-    <td align="center" width="80">
+<!--     <td align="center" width="80">
       <img src="https://camo.githubusercontent.com/9fb8c7cad55c2ac1f2f94927172a2fd43f1ca48993952ac62f87684664309ee1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6b756265726e657465732d69636f6e2e737667" width="55"  alt="CSS" />
       <br>Kubernetes
-    </td>
+    </td> -->
  <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=redis" width="43" height="43" alt="CSS" />
       <br>Redis
@@ -87,10 +87,7 @@
   <tr>
   
   
-  <td align="center" width="80">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="45" height="55" />
-  <br>Java
- </td> 
+
  <td align="center" width="80">
 <img src="https://skillicons.dev/icons?i=idea" alt="Intelji"  />
 Intelji
@@ -180,43 +177,18 @@ Graphql
       </a>
       <br>Insomnia
     </td>
- <td align="center" width="110">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" title="php" width="43" height="43"/>&nbsp;
-  <br>SpringBoot
-      
+<td align="center" width="80"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="50"/>
+  <br>Jira
  </td>
-<td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
-<img src="https://icon.icepanel.io/Technology/svg/Kotlin.svg" width="36" height="36" alt="Insomnia" />
-      </a>
-      <br>Kotlin
-    </td>
-
- <td align="center" width="110">
-    <img src="./DeviconJetpackcompose.svg" title="php" width="43" height="43"/>&nbsp;
-  <br>Jetpack
-      
+<td align="center" width="80"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40"/>
+  <br>Selenium
  </td>
- <td align="center" width="110">
-    <img src="./SkillIconsAndroidstudioDark.svg" title="php" width="43" height="43"/>&nbsp;
-  <br>Android
-      
- </td>
-<td align="center" width="110">
-    <img src="https://skillicons.dev/icons?i=flutter" title="flutter" width="43" height="43"/>&nbsp;
-  <br>Flutter
-      
- </td>
-<td align="center" width="110">
-    <img src="https://icon.icepanel.io/Technology/svg/PHP.svg" title="php" width="43" height="43"/>&nbsp;
-  <br>PHP
-      
- </td>
-
-  <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=laravel" width="43" height="43" alt="Firebase" />
-      <br>Laravel
-    </td>
+<td align="center" width="80">   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="45"/>
+  <br>Cypress
+ </td>  
 </table>
 </p>
 ##<h2>Work Porjects: </h2>

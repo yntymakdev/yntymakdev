@@ -180,7 +180,7 @@ Graphql
 
 <td align="center" width="80">   
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"width="45" />
-  <br>Firebase
+  <br>Flutter
  </td>  
 </table>
 </p>

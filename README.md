@@ -157,11 +157,7 @@ Graphql
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" title="php" width="43" height="43"/>&nbsp;
   <br>Django
  </td>
- <td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=fastapi" title="php" width="45"/>&nbsp;
- </br> Fast Api
- </td>
-
+ 
  <td align="center" width="80">
 <img src="https://camo.githubusercontent.com/20b33b0b25d74051a9f13690b5b6fa39c0365cf36632aad937b073c3b6c87a68/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667" title="php" width="55"/>&nbsp;
  </br> AWS
@@ -181,13 +177,10 @@ Graphql
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="50"/>
   <br>Jira
  </td>
-<td align="center" width="80"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40"/>
-  <br>Selenium
- </td>
+
 <td align="center" width="80">   
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="45"/>
-  <br>Cypress
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"width="45" />
+  <br>Firebase
  </td>  
 </table>
 </p>
